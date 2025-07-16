@@ -1,0 +1,4 @@
+{
+  "error": "400 sample_rate_hertz (16000) in RecognitionConfig must either be omitted or match the value in the WAV header (44100).",
+  "success": false
+}
